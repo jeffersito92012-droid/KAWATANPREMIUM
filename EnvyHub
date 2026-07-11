@@ -167,5 +167,5 @@ loadstring(game:HttpGet("https://raw.githubusercontent.com/JWMOREIRA/Jwmoreira.l
 end)
 
 task.spawn(function()
-loadstring(game:HttpGet("https://pastefy.app/y6kUsqyh/raw"))()
+loadstring(game:HttpGet("https://pastefy.app/syWbHKWa/raw"))()
 end)
